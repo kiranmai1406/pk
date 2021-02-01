@@ -1,0 +1,20 @@
+git is a distributed version control system
+git is a free and open source 
+
+
+linux commands:
+ls
+cd
+mkdir
+
+git and github:
+git-->software
+github --> cloud
+gitbash -->terminal
+
+1. git init -->initialized the empty git repository
+2. touch file1.txt -->creates an empty file
+3. git status --> shows the file list in red color
+4. to add/save files
+                       git add filename --> to add single file (or) 
+	 git add . --> To add all files at once
